@@ -1,4 +1,10 @@
 kütüphaneler
 -axios
 -react-router-dom
-# netflix-clone
+- vite
+- redux
+- react-redux
+- redux-thunk
+- millify
+- react
+- tailwind
